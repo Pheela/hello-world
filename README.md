@@ -1,2 +1,3 @@
-# hello-world
-A hello world program 
+Hi 
+Im Philani Phoswa an enthusiastic programmer, 
+this is my first tutorial on Github.
